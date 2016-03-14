@@ -1,3 +1,3 @@
-#ML-Foundations
+#Machine Learning Foundations - A Case Study Approach
 
-This repository contains all notes and assignments of coursera Machine Learning Specialization created by University of Washington
+This repository is collection of assignments of coursera Machine Learning Specialization created by University of Washington. 
